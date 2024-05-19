@@ -1,4 +1,4 @@
-### Hi there 👋
+### Final year electronics student. Working on a bachelor's project consisting of an access control system based on NFC cards.
 
 <!--
 **andreiflorin-c/andreiflorin-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
